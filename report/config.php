@@ -1,14 +1,14 @@
 <?php
 return array(
     "automaker"=>array(
-        "connectionString"=>"mysql:host=119.59.96.61;dbname=automaker",
+        "connectionString"=>"mysql:host=XXX.XXX.XXX.XXX;dbname=automaker",
         "username"=>"root",
         "password"=>"iuIXPKHH28",
         "charset"=>"utf8"
     ),
     "mysql"=>array(
         // local
-        // "connectionString"=>"mysql:host=192.168.10.198;dbname=funrun_snru",
+        // "connectionString"=>"mysql:host=XX.XX.XXX.XX;dbname=funrun_snru",
         // "username"=>"funrun",
         // "password"=>"iuIXPKHH28",
         // "charset"=>"utf8"
@@ -20,7 +20,7 @@ return array(
             "charset"=>"utf8"
 	),
     "world"=>array(
-        "connectionString"=>"mysql:host=172.16.1.247;dbname=world",
+        "connectionString"=>"mysql:host=XX.XXX.XXX.XXX;dbname=world",
         "username"=>"root",
         "password"=>"iuIXPKHH28",
         "charset"=>"utf8"
